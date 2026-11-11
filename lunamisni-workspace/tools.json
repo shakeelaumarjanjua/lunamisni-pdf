@@ -1,0 +1,15 @@
+[
+ {"slug":"merge-pdf","name":"Merge PDF","short":"Bring PDFs together in the order you choose.","group":"Essentials","icon":"merge","featured":true,"available":true},
+ {"slug":"split-pdf","name":"Split PDF","short":"Select page tiles to extract exactly the pages you need.","group":"Essentials","icon":"split","featured":true,"available":true},
+ {"slug":"compress-pdf","name":"Compress PDF","short":"Reduce file size with browser-based PDF optimization.","group":"Essentials","icon":"compress","featured":true,"available":true},
+ {"slug":"rotate-pdf","name":"Rotate PDF Pages","short":"Select pages and turn them to any angle.","group":"Essentials","icon":"rotate","featured":true,"available":true},
+ {"slug":"organize-pdf","name":"Organize Pages","short":"Select pages in the order you want them arranged.","group":"Essentials","icon":"organize","featured":true,"available":true},
+ {"slug":"pdf-to-markdown","name":"PDF to Markdown","short":"Extract selected pages as readable Markdown.","group":"AI & Developer","icon":"markdown","available":true},
+ {"slug":"compare-pdf","name":"Compare PDFs","short":"Review extracted text differences side by side.","group":"AI & Developer","icon":"compare","available":true},
+ {"slug":"sanitize-pdf","name":"Metadata Sanitizer","short":"Clear document author, title and metadata fields.","group":"AI & Developer","icon":"sanitize","available":true},
+ {"slug":"bates-numbering","name":"Bates Numbering","short":"Add sequential reference numbers to selected pages.","group":"Business","icon":"bates","available":true},
+ {"slug":"n-up-booklet","name":"N-Up / Booklet","short":"Place selected PDF pages on each print sheet.","group":"Business","icon":"booklet","available":true},
+ {"slug":"sign-pdf","name":"E-Sign PDF","short":"Draw a signature and apply it to selected pages.","group":"Edit & Sign","icon":"sign","available":true},
+ {"slug":"protect-pdf","name":"Protect PDF","short":"Password-encrypt your PDF with AES-256.","group":"Security","icon":"protect","available":true},
+ {"slug":"unlock-pdf","name":"Unlock PDF","short":"Remove password protection using the open password.","group":"Security","icon":"unlock","available":true}
+]
